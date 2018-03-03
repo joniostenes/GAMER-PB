@@ -1,2 +1,2 @@
-#http://gamer-pb.github.io
+GAMER PB
 Site de noticias de Games
